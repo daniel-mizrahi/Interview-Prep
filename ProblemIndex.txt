@@ -1,3 +1,3 @@
 Number	Problem Name					Problem Difficulty	Source
 1.	-Longest Substring Without Repeating Characters -Medium			-Leetcode
-
+2. 	-Word Search					-Medium			-Leetcode
