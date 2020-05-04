@@ -1,6 +1,7 @@
-Number	Problem Name					Problem Difficulty	Language	Source
-1.	-Longest Substring Without Repeating Characters -Medium			Python3		-Leetcode
-2. 	-Word Search					-Medium			Python3		-Leetcode
-3. 	-Triangle					-Medium			Python3		-Leetcode
-4. 	-Word Ladder					-Medium			Python3		-Leetcode
+Number	Problem Name					Problem Difficulty	Language	Date
+1.	Longest Substring Without Repeating Characters 	Medium			Python3		05/01/2020
+2. 	Word Search					Medium			Python3		05/01/2020
+3. 	Triangle					Medium			Python3		05/02/2020
+4. 	Word Ladder					Medium			Python3		05/02/2020
+5. 	Validate Stack Sequences			Medium			Python3		05/03/2020
 
