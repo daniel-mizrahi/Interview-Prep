@@ -11,4 +11,7 @@ Number	Problem Name					Problem Difficulty	Language	Date
 10.	4 Sum II					Medium			Python3		05/07/2020
 11. 	Coin Change					Medium			Python3		05/07/2020
 12. 	Top K Frequent Words				Medium			Python3		05/07/2020
+13. 	Implement Trie (Prefix Tree)			Medium			Python3		05/07/2020
+14.	Linked List Cycle				Easy			Python3		05/07/2020
+15. 	Linked List Cycle II				Medium			Python3		05/07/2020
 
