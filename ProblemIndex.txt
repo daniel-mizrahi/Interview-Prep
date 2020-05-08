@@ -8,5 +8,7 @@ Number	Problem Name					Problem Difficulty	Language	Date
 7. 	Jump Game					Medium			Python3		05/05/2020
 8. 	Rotting Oranges					Medium			Python3		05/05/2020
 9. 	K Closest Points to Origin			Medium 			Python3		05/05/2020
+10.	4 Sum II					Medium			Python3		05/07/2020
+11. 	Coin Change					Medium			Python3		05/07/2020
+12. 	Top K Frequent Words				Medium			Python3		05/07/2020
 
-	
