@@ -1,17 +1,17 @@
-Number	Problem Name					Problem Difficulty	Language	Date
-1.	Longest Substring Without Repeating Characters 	Medium			Python3		05/01/2020
-2. 	Word Search					Medium			Python3		05/01/2020
-3. 	Triangle					Medium			Python3		05/02/2020
-4. 	Word Ladder					Medium			Python3		05/02/2020
-5. 	Validate Stack Sequences			Medium			Python3		05/03/2020
-6. 	House Robber					Easy			Python3		05/04/2020
-7. 	Jump Game					Medium			Python3		05/05/2020
-8. 	Rotting Oranges					Medium			Python3		05/05/2020
-9. 	K Closest Points to Origin			Medium 			Python3		05/05/2020
-10.	4 Sum II					Medium			Python3		05/07/2020
-11. 	Coin Change					Medium			Python3		05/07/2020
-12. 	Top K Frequent Words				Medium			Python3		05/07/2020
-13. 	Implement Trie (Prefix Tree)			Medium			Python3		05/07/2020
-14.	Linked List Cycle				Easy			Python3		05/07/2020
-15. 	Linked List Cycle II				Medium			Python3		05/07/2020
-
+Number	Problem Name					Problem Difficulty	Category	Date
+1.	Longest Substring Without Repeating Characters 	Medium			Strings		05/01/2020
+2. 	Word Search					Medium			Recursion	05/01/2020
+3. 	Triangle					Medium			Recursion	05/02/2020
+4. 	Word Ladder					Medium			Graphs		05/02/2020
+5. 	Validate Stack Sequences			Medium			Stack-Queue	05/03/2020
+6. 	House Robber					Easy			DP		05/04/2020
+7. 	Jump Game					Medium			Arrays		05/05/2020
+8. 	Rotting Oranges					Medium			Recursion	05/05/2020
+9. 	K Closest Points to Origin			Medium 			Sorting		05/05/2020
+10.	4 Sum II					Medium			Arrays		05/07/2020
+11. 	Coin Change					Medium			DP		05/07/2020
+12. 	Top K Frequent Words				Medium			Sorting		05/07/2020
+13. 	Implement Trie (Prefix Tree)			Medium			Design		05/07/2020
+14.	Linked List Cycle				Easy			Lists		05/07/2020
+15. 	Linked List Cycle II				Medium			Lists		05/07/2020
+16. 	Same Tree					Easy			Graphs		05/07/2020
