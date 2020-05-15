@@ -16,4 +16,7 @@ Number	Problem Name					Problem Difficulty	Category	Date
 15. 	Linked List Cycle II				Medium			Lists		05/07/2020
 16. 	Same Tree					Easy			Graphs		05/07/2020
 17. 	Longest Increasing Subsequence			Medium			Sorting		05/10/2020
+18. 	Minimum Remove to Make Valid Parenthesis	Medium			Strings		05/12/2020
+19. 	Numbers With Equal Digit Sum			Microsoft Question	Numbers		05/12/2020
+20. 	Find Peak Element				Medium			Lists		05/15/2020
 
