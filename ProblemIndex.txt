@@ -19,4 +19,8 @@ Number	Problem Name					Problem Difficulty	Category	Date
 18. 	Minimum Remove to Make Valid Parenthesis	Medium			Strings		05/12/2020
 19. 	Numbers With Equal Digit Sum			Microsoft Question	Numbers		05/12/2020
 20. 	Find Peak Element				Medium			Lists		05/15/2020
+21. 	Course Schedule					Medium			Graphs		05/29/2020
+22. 	Alphabet Board Path				Medium			Strings		05/29/2020
+23. 	Course Schedule II 				Medium			Graphs		06/02/2020
+24. 	Remove Nth Node from End of List		Medium			Lists		06/02/2020
 
