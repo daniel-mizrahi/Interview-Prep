@@ -24,4 +24,7 @@ Number	Problem Name					Problem Difficulty	Category	Date
 23. 	Course Schedule II 				Medium			Graphs		06/02/2020
 24. 	Remove Nth Node from End of List		Medium			Lists		06/02/2020
 25. 	Reverse Words in a String			Medium			Strings		06/03/2020
+26. 	Find K Closest Elements				Medium			Heaps		06/03/2020
+27. 	Trapping Rain Water				Hard			Arrays		06/03/2020
+28.	Container With Most Water			Medium			Arrays		06/03/2020
 
