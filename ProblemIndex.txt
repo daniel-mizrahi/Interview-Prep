@@ -29,4 +29,6 @@ Number	Problem Name					Problem Difficulty	Category	Date
 28.	Container With Most Water			Medium			Arrays		06/03/2020
 29.	K-diff Pairs in an Array			Easy			Numbers		06/18/2020
 30. 	Shuffle an Array				Medium			Arrays		06/29/2020
+31.	Simplify Path					Medium			Strings		06/29/2020
+32. 	Insert Delete GetRandom O(1)			Medium			Design		07/05/2020
 
